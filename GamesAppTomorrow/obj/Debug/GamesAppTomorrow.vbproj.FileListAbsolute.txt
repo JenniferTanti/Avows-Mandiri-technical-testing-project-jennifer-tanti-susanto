@@ -1,0 +1,15 @@
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.vbproj.AssemblyReference.cache
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.frmLogin.resources
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.Resources.resources
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.vbproj.GenerateResource.cache
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.vbproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\bin\Debug\GamesAppTomorrow.exe.config
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\bin\Debug\GamesAppTomorrow.exe
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\bin\Debug\GamesAppTomorrow.pdb
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\bin\Debug\GamesAppTomorrow.xml
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.FrmMenu.resources
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.FrmProfiles.resources
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.exe
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.xml
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.pdb
+C:\Users\Jennifer\source\repos\GamesAppTomorrow\GamesAppTomorrow\obj\Debug\GamesAppTomorrow.FrmGameDetails.resources
